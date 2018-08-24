@@ -1,0 +1,7 @@
+{
+  "name": "scan_Erik_Alvarez",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
